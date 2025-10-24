@@ -1,0 +1,13 @@
+asset,market,product,hub_component,basis_component,risk_adj,neg_adj,p75_price
+Howling_Gale,CAISO,DA_BUS,46.53,-0.0,-4.69,11.99,41.84
+Howling_Gale,CAISO,DA_HUB,46.53,0.0,-4.18,11.24,42.35
+Howling_Gale,CAISO,RT_BUS,46.53,-0.17,-7.37,14.98,38.99
+Howling_Gale,CAISO,RT_HUB,46.53,0.0,-6.28,12.4,40.25
+Mantero,MISO,DA_BUS,44.41,-12.54,-4.85,8.27,27.02
+Mantero,MISO,DA_HUB,44.41,0.0,-1.05,0.0,43.35
+Mantero,MISO,RT_BUS,44.41,-11.72,-9.83,14.52,22.86
+Mantero,MISO,RT_HUB,44.41,0.0,-3.44,0.61,40.96
+Valentino,ERCOT,DA_BUS,52.31,-10.76,-33.24,37.36,8.32
+Valentino,ERCOT,DA_HUB,52.31,0.0,-9.53,4.62,42.78
+Valentino,ERCOT,RT_BUS,52.31,-12.99,-88.87,92.87,-49.55
+Valentino,ERCOT,RT_HUB,52.31,0.0,-12.59,3.66,39.72

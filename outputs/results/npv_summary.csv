@@ -1,0 +1,4 @@
+asset,market,merchant_p50_price,fixed_p75_price,merchant_p50_npv,fixed_p75_npv,delta_pct
+Valentino,ERCOT,16.98,-49.55,13645433.06,-39824157.88,-391.85
+Mantero,MISO,26.24,22.86,20406174.35,17779258.24,-12.87
+Howling_Gale,CAISO,43.61,38.99,62643437.26,56005376.11,-10.6
